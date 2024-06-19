@@ -1,0 +1,42 @@
+{
+    "name": "layerzero-airdrop-checker",
+    "version": "1.0.0",
+    "description": "A Node.js tool to verify multiple wallet address eligibility for LayerZero airdrop and check for Sybil status.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "LayerZero",
+        "airdrop",
+        "sybil",
+        "checker",
+        "wallet",
+        "eligibility",
+        "cryptocurrency",
+        "blockchain",
+        "crypto",
+        "airdrop checker",
+        "sybil checker",
+        "wallet checker",
+        "ZK rollup",
+        "Ethereum",
+        "crypto tool",
+        "blockchain tool"
+    ],
+    "author": "dmytrmk",
+    "license": "MIT",
+    "dependencies": {
+        "colors": "~1.3.3",
+        "node-fetch": "^2.7.0",
+        "ora": "^5.4.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dmytrmk/layerzero-airdrop-checker.git"
+    },
+    "bugs": {
+        "url": "https://github.com/dmytrmk/layerzero-airdrop-checker/issues"
+    },
+    "homepage": "https://github.com/dmytrmk/layerzero-airdrop-checker#readme"
+}
